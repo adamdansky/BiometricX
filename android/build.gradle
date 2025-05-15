@@ -3,14 +3,14 @@ version '1.0-SNAPSHOT'
 
 buildscript {
     ext {
-        gradle_version = '7.0.0'
-        kotlin_version = '1.5.21'
+        gradle_version = '8.1.3'
+        kotlin_version = '1.8.22'
         appcompat_version = '1.3.0'
         biometric_version = '1.0.1'
         gson_version = '2.8.7'
 
         // ANDROID VERSION
-        androidCompileSdkVersion = 30
+        androidCompileSdkVersion = 34
         androidMinSdkVersion = 21
         androidTargetSdkVersion = 30
 
